@@ -1,1 +1,0 @@
-/workspace/estudo-rust/heranca/01/exemplo/target/debug/exemplo: /workspace/estudo-rust/heranca/01/exemplo/src/cachorro.rs /workspace/estudo-rust/heranca/01/exemplo/src/gato.rs /workspace/estudo-rust/heranca/01/exemplo/src/main.rs /workspace/estudo-rust/heranca/01/exemplo/src/mamifero.rs
